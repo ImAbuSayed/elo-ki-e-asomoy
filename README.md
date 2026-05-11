@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/elo-ki-e-asomoy/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Elo Ki E Asomoy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/elo-ki-e-asomoy/) |
+| **Get License** | [Official Music Licensing for Elo Ki E Asomoy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/elo-ki-e-asomoy/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> এলো কি এ অসময়, কেন এত সংশয়
+> হারানো পথের বাঁকে, তোমাকেই খুঁজে যাই
+> মেঘের আড়ালে চাঁদ, বুকে শুধু জাগে ভয়
+> (খুঁজে যাই) তোমার প্রেমের ছোঁয়া, ছাড়া আর কিছু নাই
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
