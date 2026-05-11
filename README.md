@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/elo-ki-e-asomoy/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Elo Ki E Asomoy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/elo-ki-e-asomoy/) |
+| **Get License** | [Music Rights & Licensing for Elo Ki E Asomoy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/elo-ki-e-asomoy/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ac143d91b4df68849abfda241dffceb6c73ca66ee26e84ce489a68124ccefac6` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

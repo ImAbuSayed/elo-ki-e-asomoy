@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Elo Ki E Asomoy
+
+This log tracks the cryptographic history and versioning for the song **Elo Ki E Asomoy** (elo-ki-e-asomoy).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T09:18:35.023587 | `v1` | `ac143d91b4df68849abfda241dffceb6c73ca66ee26e84ce489a68124ccefac6` | `d78397897c69b685da784e53e1775fee3675023040078aa7c55e2c99d5b14394` | `2026-05-11_elo-ki-e-asomoy-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
